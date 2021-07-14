@@ -1,1 +1,1 @@
-# PaternRecognize-project-cs338
+# Đồ án môn Nhận Dạng lớp CS338.L21
