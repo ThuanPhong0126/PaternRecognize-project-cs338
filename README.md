@@ -2,4 +2,4 @@
 
 * Model Question Similarity with BERT base: [link](https://drive.google.com/drive/folders/1JD0Y1Ipcr0VTSgIBjykfLYmN8_GUmGRn?usp=sharing)
 
-* Model Question Similarity with BERT base: [link](https://drive.google.com/drive/folders/1PwNYU9xHYIwszkvgTBNYt1n82zyB4HcZ?usp=sharing)
+* Model Question Similarity with BERT large: [link](https://drive.google.com/drive/folders/1PwNYU9xHYIwszkvgTBNYt1n82zyB4HcZ?usp=sharing)
