@@ -7,3 +7,5 @@
 Một số hình ảnh demo:
 
 ![Demo với mô hình SBERT](https://github.com/ThuanPhong0126/PaternRecognize-project-cs338/blob/main/images/demo_sbert_1.png)
+![Demo với mô hình BERT large](https://github.com/ThuanPhong0126/PaternRecognize-project-cs338/blob/main/images/demo_bertlarge_0.png)
+![Demo với mô hình BERT large](https://github.com/ThuanPhong0126/PaternRecognize-project-cs338/blob/main/images/demo_bert_large_1.png)
